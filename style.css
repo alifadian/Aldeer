@@ -1,0 +1,20 @@
+body {
+  min-height: 2000px;
+  background-color: #f2eac9;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #edcc79;
+}
+#about {
+  padding-top: 5rem;
+}
+#inspiration {
+  padding-top: 5rem;
+}
+#contact {
+  padding-top: 5rem;
+}
+#filmtvshow {
+  padding-top: 5rem;
+}
